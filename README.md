@@ -2,12 +2,14 @@
 
 ## Description
 
-Record sounds and plays back with different effects.
+Record sounds and plays them back with different effects. 
+Udacity project build during iOS Developer Nanodegree. Icons and a basic structure was provided by Udacity.
 
 ![](pitchperfect.png)
 ### Features 
 
-- 
+- Record sounds using mic 
+- PlayBack with various effects
 
 
 ### How to use ?
